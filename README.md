@@ -3,12 +3,16 @@
 Setup
 Precisa ter Node Js instalado: https://nodejs.org/en/
 
-Client - Terminal A
+### Client - Terminal A
+```
 cd client
 npm install
 npm start
+```
 
-Server - Terminal B
+### Server - Terminal B
+```
 cd server
 npm install
 npm start
+```
