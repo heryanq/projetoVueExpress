@@ -1,6 +1,7 @@
 # Projeto com front em Vue e back em Express
 
-Setup
+# Setup
+
 Precisa ter Node Js instalado: https://nodejs.org/en/
 
 ### Client - Terminal A
